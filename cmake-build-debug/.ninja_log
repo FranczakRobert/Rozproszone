@@ -1,0 +1,10 @@
+# ninja log v5
+2	546	1710440466718790682	CMakeFiles/zadanie.dir/File/FileReader.cpp.o	a4b2aae1de8c0b64
+0	61	1710665143466594106	build.ninja	977132404acd19c4
+3	509	1710442167312726093	CMakeFiles/zadanie.dir/Matrix/MatrixController.cpp.o	37f069123bd337ab
+4	503	1710337150357600555	CMakeFiles/zadanie.dir/Matrix.cpp.o	876a8e8c82cc6c07
+2	478	1710337449752529434	CMakeFiles/zadanie.dir/FileReader.cpp.o	aada4da17d430c66
+3	506	1710442167310557617	CMakeFiles/zadanie.dir/main.cpp.o	6308ae2c2bdee8fb
+3	427	1710441355898091583	CMakeFiles/zadanie.dir/Matrix/Matrix.cpp.o	b75af44b8271c5a4
+509	600	1710442167406839194	zadanie	c6f89f5da4ecc23d
+2	470	1710441972286001787	CMakeFiles/zadanie.dir/File/FileController.cpp.o	2bdc0ca781d363ce
